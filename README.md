@@ -73,5 +73,3 @@ The model uses predefined paths for datasets and initializes essential hyperpara
 - **Scikit-learn**: Evaluates model performance.
 - **Matplotlib**: Visualizes model metrics.
 
-This repository serves as a foundation for real-time action detection applications using deep learning.
-
